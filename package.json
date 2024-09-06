@@ -1,5 +1,5 @@
 {
-    "name": "template-parcel",
+    "name": "phaser-editor-template-parcel",
     "version": "1.2.1",
     "description": "A Phaser 3 template using Parcel 2 as the bundler.",
     "source": "./index.html",
